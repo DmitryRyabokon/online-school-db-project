@@ -199,7 +199,7 @@ JOIN teachers ON teachers.id = bookings.teacher_id;
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![ER Diagram](diagram.png)
+![ER Diagram](https://github.com/DmitryRyabokon/online-school-db-project/blob/main/project/diagram.png)
 
 The database implements several key relationships:
 
